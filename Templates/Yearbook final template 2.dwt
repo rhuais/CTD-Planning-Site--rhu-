@@ -76,8 +76,8 @@
 }
 #apDiv9 {
 	position:absolute;
-	left:1146px;
-	top:99px;
+	left:1016px;
+	top:63px;
 	width:150px;
 	height:69px;
 	z-index:9;
@@ -109,7 +109,7 @@
 }
 body {
 	background-image: url(../docs/other%20pics/background.jpg);
-}td img {display: block;}
+}td img {display: block;}td img {display: block;}td img {display: block;}
 </style>
 </head>
 
@@ -126,16 +126,38 @@ body {
   <p>Ruby Kim: 808539@ais.edu.hk</p>
 </div>
 <div id="apDiv9">
-  <h2>Assignments </h2>
+  <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="611">
+    <!-- fwtable fwsrc="Button5final.png" fwpage="Page 1" fwbase="Button5final.gif" fwstyle="Dreamweaver" fwdocid = "1957777729" fwnested="0" -->
+    <tr>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="139" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="13" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="143" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="22" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="134" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="8" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="144" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="8" height="1" border="0" id="undefined_2" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="1" height="1" border="0" id="undefined_2" /></td>
+    </tr>
+    <tr>
+      <td colspan="8"><img name="Button5final_r1_c1" src="../website/Button copy/Button5final_r1_c1.gif" width="611" height="1" border="0" id="Button5final_r1_c1" alt="" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="1" height="1" border="0" id="undefined_2" /></td>
+    </tr>
+    <tr>
+      <td><a href="../Assignment yearbook.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Button5final_r2_c1','../website/Button copy/Button5final_r2_c1_s2.gif','../website/Button copy/Button5final_r2_c1_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','Button5final_r2_c1','../website/Button copy/Button5final_r2_c1_s3.gif',1);"><img name="Button5final_r2_c1" src="../website/Button copy/Button5final_r2_c1.gif" width="139" height="102" border="0" id="Button5final_r2_c1" alt="" /></a></td>
+      <td colspan="2"><a href="../Good Photography.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Button5final_r2_c2','../website/Button copy/Button5final_r2_c2_s2.gif','../website/Button copy/Button5final_r2_c2_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','Button5final_r2_c2','../website/Button copy/Button5final_r2_c2_s3.gif',1);"><img name="Button5final_r2_c2" src="../website/Button copy/Button5final_r2_c2.gif" width="156" height="102" border="0" id="Button5final_r2_c2" alt="" /></a></td>
+      <td colspan="3"><a href="../Bad Photography.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Button5final_r2_c4','../website/Button copy/Button5final_r2_c4_s2.gif','../website/Button copy/Button5final_r2_c4_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','Button5final_r2_c4','../website/Button copy/Button5final_r2_c4_s3.gif',1);"><img name="Button5final_r2_c4" src="../website/Button copy/Button5final_r2_c4.gif" width="164" height="102" border="0" id="Button5final_r2_c4" alt="" /></a></td>
+      <td><a href="../calender yearbook.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','Button5final_r2_c7','../website/Button copy/Button5final_r2_c7_s2.gif','../website/Button copy/Button5final_r2_c7_s3.gif',1);" onclick="MM_nbGroup('down','navbar1','Button5final_r2_c7','../website/Button copy/Button5final_r2_c7_s3.gif',1);"><img name="Button5final_r2_c7" src="../website/Button copy/Button5final_r2_c7.gif" width="144" height="102" border="0" id="Button5final_r2_c7" alt="" /></a></td>
+      <td rowspan="2">&nbsp;</td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="1" height="102" border="0" id="undefined_2" /></td>
+    </tr>
+    <tr>
+      <td colspan="7"><img name="Button5final_r3_c1" src="../website/Button copy/Button5final_r3_c1.gif" width="603" height="1" border="0" id="Button5final_r3_c1" alt="" /></td>
+      <td><img src="../website/Button copy/spacer.gif" alt="" name="undefined_2" width="1" height="1" border="0" id="undefined_2" /></td>
+    </tr>
+  </table>
 </div>
-<div id="apDiv10">
-  <h3>Good vs. Bad Photography</h3>
-</div>
-<div id="apDiv11">
-  <h2><strong> Calender </strong></h2>
-</div>
-<img src="../docs/other pics/yearbooklogo.gif" width="227" height="143" />
-<script language="JavaScript1.2" type="text/javascript">
+<img src="../docs/other pics/yearbooklogo.gif" width="227" height="143" /><script language="JavaScript1.2" type="text/javascript">
 <!--
 function MM_findObj(n, d) { //v4.01
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
